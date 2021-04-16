@@ -2,7 +2,7 @@
 The idea originated from
 * https://www.schmitzbits.de/vcf4007.html
 * https://github.com/promesoft/KicadJE-SteinerVCF
-* 
+* https://wiki.analog.com/university/courses/electronics/electronics-lab-28
 # Purpose
 
 ## Board 1
