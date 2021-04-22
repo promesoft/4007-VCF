@@ -22,7 +22,7 @@ Output Audio
 +/- 10V DC coupled
 
 
-# Status - 
+# Status - Early start
 ## Initial 
 | Stage  | Detail | Status |
 | ------------- | ------------- | ------------- |
